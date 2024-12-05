@@ -67,7 +67,7 @@ do
     --disable-save-password-bubble \
     --disable-session-crashed-bubble \
     --incognito \
-    --kiosk "https://neave.tv/"
+    --kiosk "http://192.168.178.187:3000/d/topaLE/wetterstation-le?orgId=1&from=now-5m&to=now&refresh=30s&kiosk"
   sleep 5
 done &
 EOF
